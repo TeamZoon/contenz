@@ -18,4 +18,19 @@ In order to achieve its functionality, there would be generally two main parts o
 - Low cost deployment
 - full scalability 
 
+## Technical Stack
 
+### Architecture
+
+Universal device <-> Next.js + Apollo client <-> GraphCool
+
+### Syntax
+
+Typescript targeting ES2017
+
+### Unit Testing
+
+- Test runner framework: jest
+- Assertion framework: jest
+- Assertion style: expect
+- Stub framework: jest
